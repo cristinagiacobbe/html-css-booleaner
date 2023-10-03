@@ -17,3 +17,26 @@
     width: 20%;
     padding: 20px;
 }
+a{
+    text-decoration: none;
+}
+.text{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+ul{
+    padding-left: 30px;
+}
+table{
+    padding-top: 10px;
+}
+th{
+    background-color: rgb(32, 80, 211);
+    color: blanchedalmond;
+}
+.th1{
+    width: 25%;
+}
+.th2{
+    width: 50%;
+}
