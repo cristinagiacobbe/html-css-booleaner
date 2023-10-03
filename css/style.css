@@ -1,0 +1,19 @@
+/* #Region Common */
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* #End Region Common */
+
+#site_header
+{
+    background-image: url("../img/pattern.png");
+    background-color: aqua;
+    background-size: contain;
+}
+.logo{
+    width: 20%;
+    padding: 20px;
+}
