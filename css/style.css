@@ -43,3 +43,22 @@ th{
 .blue_tr{
     background-color: rgb(179, 188, 241);
 }
+h3{
+    padding: 5px;
+    color: rgb(62, 68, 68);
+}
+
+.monitor{
+    background-image: url(../img/monitor.jpg);
+    background-repeat: no-repeat;
+    height: 200px;
+}
+.graph{
+    background-image: url(../img/graph.jpg);
+    background-repeat: no-repeat;
+    height: 200px; 
+    margin-top: 10px;   
+}
+.white-text{
+    color: white;
+}
